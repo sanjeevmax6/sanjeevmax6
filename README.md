@@ -1,42 +1,39 @@
-# Hey, If you're here, you either want to get to know more about me, or are interested in one of my projects. You're in the right place!
+<h2>Hey, I’m Sanjeev 👋</h2>
 
-I build practical software and applied AI systems that turn messy, real-world workflows into reliable products.  
-Recently: agentic RAG + automation for large config/testbed systems, and full-stack tooling that’s fast to ship and easy to own.
+<img align="right" src="https://media.giphy.com/media/l0HlG6n8b9R1Jp9FS/giphy.gif" width="260"/>
 
-## TLDR
-- Built an agentic search + automation workflow over **5,000+** real network/testbed configs, cutting config discovery from **hours → seconds**
-- Shipped production-grade full-stack features across React/TypeScript + backend services, focusing on reliability, rollout safety, and developer UX
-- Designed pipelines for ingestion/indexing/retrieval (structured + vector) with strong emphasis on cost control and fast “first-stage” retrieval
-- Comfortable owning systems end-to-end: APIs, data stores, infra, CI/CD, and polished UI
+<p>
+I’m a software engineer who likes building systems that live at the edge of <b>backend, infrastructure, and applied AI</b>.  
+I enjoy tackling problems that start off unclear, messy & turning them into tools people actually trust and use.
+</p>
 
-## Featured Projects
+<p>
+Always curious, and never fails to ask questions that potentially raise the bar!
+</p>
 
-### 1) RL-Based Test Case Prioritization for CI/CD
-**Problem:** CI delays when the wrong tests run first.  
-**What I built:** Online/learning-based prioritization to surface failures earlier and reduce feedback time.  
-**Tech:** Python, RL (DQN), custom environments, evaluation dashboards  
-Repo: https://github.com/sanjeevmax6/tcp-rl
+---
 
-### 2) Brevity Cloud (AI Summarizer / RAG System)
-**Problem:** Summarize and query long content quickly with reliable retrieval.  
-**What I built:** Cloud-deployed summarization + search pipeline with scalable infra and automation.  
-**Tech:** AWS (S3, DynamoDB, Kendra/Bedrock), Terraform, API Gateway, Cognito  
-Repo: https://github.com/The-Brevity-Cloud/term-project-team4-brevitycloud
+### How I think & build
+```ts
+const sanjeev = {
+  experience: {
+    areas: ["frontend", "backend", "machine learning", "agentic AI"]
+  },
+  stack: ["Python", "TypeScript/JavaScript", "C++", "React", "PostgreSQL", "AWS", "Terraform" "Docker"],
+  organizations: ["Nokia", "Skillz"],
+  principles: ["clarity before cleverness", "optimize for iteration and ownership", "measure real-world impact"
+  ]
+};
 
-### 3) Market Microstructure Backtest + Cost Modeling
-**Problem:** Estimate execution cost across many venues efficiently.  
-**What I built:** Streaming snapshot processing + greedy allocator to scale when brute force isn’t feasible.  
-**Tech:** Python, Kafka, AWS/EC2, Terraform  
-Repo: https://github.com/sanjeevmax6/quant-dev-trial-sanjeev
+```
 
-## Tech I Use
-**Languages:** Python, TypeScript/JavaScript, SQL  
-**Backend:** FastAPI, Node.js, PostgreSQL  
-**AI/ML:** RAG, embeddings, vector search, RL (DQN)  
-**Cloud/Infra:** AWS, Terraform, Docker, CI/CD  
-**Frontend:** React, Next.js
+---
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/sanjeev06/
-- Portfolio: https://sanjeevmax6.github.io/
-- Email: sv8958@rit.edu
+<img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="70"/>
+
+---
+
+### I love chatting with people & sharing ideas
+- [<sv8958@rit.edu>](sv8958@rit.edu)
+- [<My Linkedin>](https://www.linkedin.com/in/sanjeev06/)
+- [<My Website>](https://sanjeevmax6.github.io/)
