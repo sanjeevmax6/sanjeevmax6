@@ -27,21 +27,8 @@ const sanjeev = {
     areas: ["frontend", "backend", "machine learning", "agentic AI"],
     organizations: ["Nokia", "Skillz"]
   },
-  stack: [
-    "Python",
-    "TypeScript / JavaScript",
-    "C++",
-    "React",
-    "PostgreSQL",
-    "AWS",
-    "Terraform",
-    "Docker"
-  ],
-  principles: [
-    "clarity before cleverness",
-    "optimize for iteration and ownership",
-    "measure real-world impact"
-  ]
+  stack: ["Python", "TypeScript / JavaScript", "C++", "React", "PostgreSQL", "AWS", "Terraform", "Docker"],
+  principles: ["clarity before cleverness", "optimize for iteration and ownership", "measure real-world impact"]
 };
 ```
 
