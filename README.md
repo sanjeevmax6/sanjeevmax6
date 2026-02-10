@@ -1,14 +1,14 @@
-<h2>Hey, I’m Sanjeev 👋</h2>
+<h2>Hey, I’m Sanjeev </h2>
 
-<img align="right" src="https://media.giphy.com/media/l0HlG6n8b9R1Jp9FS/giphy.gif" width="260"/>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXU5MzFwYmV5MXlyanQ1aGF6ODFxZXk4cjkxZnVreWY0Y2d5cmk3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="260"/>
 
 <p>
-I’m a software engineer who likes building systems that live at the edge of <b>backend, infrastructure, and applied AI</b>.  
+I’m a software engineer who likes building systems that live at the edge of <b>backend, infrastructure, and applied AI</b> with a nice touch of <i>Frontend</i>.  
 I enjoy tackling problems that start off unclear, messy & turning them into tools people actually trust and use.
 </p>
 
 <p>
-Always curious, and never fails to ask questions that potentially raise the bar!
+Always curious, never afraid to ask questions that raise the bar.
 </p>
 
 ---
@@ -27,11 +27,8 @@ const sanjeev = {
 
 ```
 
-<img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="70"/>
-
 ---
 
-### I love chatting with people & sharing ideas
-- [<sv8958@rit.edu>](sv8958@rit.edu)
-- [<My Linkedin>](https://www.linkedin.com/in/sanjeev06/)
-- [<My Website>](https://sanjeevmax6.github.io/)
+I believe new ideas make things better. After all, the microwave was invented by accident.  
+Have a cool idea? Email me at [sv8958@rit.edu](mailto:sv8958@rit.edu) or connect on LinkedIn.
+
