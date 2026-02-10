@@ -1,6 +1,6 @@
 <h2>Hey, I’m Sanjeev 👋</h2>
 
-<img align="right" src="https://media.githubusercontent.com/media/ashishps1/ashishps1/master/coding.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/l0HlG6n8b9R1Jp9FS/giphy.gif" width="260"/>
 
 <p>
 I’m a software engineer who likes building systems that live at the edge of <b>backend, infrastructure, and applied AI</b>.  
@@ -27,7 +27,7 @@ const sanjeev = {
 
 ```
 
-<img src="https://media.githubusercontent.com/media/kaustubhhiware/kaustubhhiware/master/wave.gif" width="60"/>
+<img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="70"/>
 
 ---
 
